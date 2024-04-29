@@ -12,7 +12,7 @@ If you want to run it normally just use the compiled .exe, if you don't you can 
 
 **PREVIEW :**
 
-![image](https://ibb.co/6br4n9Y)
+![image](https://github.com/Jxkss/StumbleBoosterUI/blob/main/Capture%20d'%C3%A9cran%202024-04-29%20211415.png)
 
 
 ### Requirements:
